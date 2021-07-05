@@ -228,7 +228,7 @@ ul.breadcrumb li a:hover {
     color: #17b978;
 }
 
-.footer-wrap > .container > .inner-right > p > a, .post-title > a {
+.footer-wrap > .container > .inner-right > p > a {
     color: #17b978;
 }
 
